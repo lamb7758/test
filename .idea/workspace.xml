@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89c97a9-5b7f-4695-a607-8aa64aece171" name="Default" comment="Merge branch 'master' of https://github.com/lamb7758/test&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;pom.xml">
-      <change afterPath="$PROJECT_DIR$/../blog/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../blog/src/main/java/com/lamb/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/main/java/com/lamb/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../blog/target/" />
@@ -21,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../blog/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../blog/src/main/java/com/lamb/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="125">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -63,8 +57,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../blog/src/main/java/com/lamb/Test.java" />
         <option value="$PROJECT_DIR$/../blog/pom.xml" />
+        <option value="$PROJECT_DIR$/../blog/src/main/java/com/lamb/Test.java" />
       </list>
     </option>
   </component>
@@ -218,7 +212,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552656014420</updated>
-      <workItem from="1552656015754" duration="1994000" />
+      <workItem from="1552656015754" duration="2625000" />
     </task>
     <task id="LOCAL-00001" summary="update system">
       <created>1552657130817</created>
@@ -245,41 +239,41 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1994000" />
+    <option name="totallyTimeSpent" value="2625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="163" y="106" width="1230" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.4991453" visible="true" weight="0.32970026" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50085473" side_tool="true" visible="true" weight="0.32970026" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991453" weight="0.32833788" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3292517" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24957265" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Learn" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.4991453" visible="true" weight="0.32833788" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50085473" side_tool="true" visible="true" weight="0.32833788" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4991453" weight="0.32833788" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3292517" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24957265" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,17 +291,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/lamb7758/test&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;pom.xml" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../blog/src/main/java/com/lamb/Test.java">
+    <entry file="file://$PROJECT_DIR$/../blog/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../blog/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../blog/src/main/java/com/lamb/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="125">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>

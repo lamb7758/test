@@ -53,6 +53,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../test" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="lamb7758" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="test" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
